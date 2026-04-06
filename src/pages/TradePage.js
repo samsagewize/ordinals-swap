@@ -470,7 +470,7 @@ export default function TradePage() {
           <p style={{ color: 'var(--text-muted)', fontSize: '13px', marginBottom: '20px' }}>
             {mySignedAlready
               ? 'Waiting for the other party to sign. Once both sides are signed, the swap can be broadcast.'
-              : 'Review the trade above, then sign with Xverse to authorize your side of the atomic swap.'}
+              : 'Review the trade above, then sign with Xverse to authorize your side of the atomic swap. A 2,000 sat platform fee is included in the transaction.'}
           </p>
           {!mySignedAlready && (
             <button
