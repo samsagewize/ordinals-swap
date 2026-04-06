@@ -39,7 +39,7 @@ function App() {
               <span>Trustless P2P Ordinals trading via PSBT · Bitcoin mainnet</span>
               <span>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/samsagewize/ordinals-swap/tree/main"
                   target="_blank"
                   rel="noreferrer"
                   style={{ color: 'var(--text-muted)' }}
