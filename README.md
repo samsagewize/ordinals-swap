@@ -117,3 +117,4 @@ The current PSBT builder creates outputs for the inscriptions only. In productio
 ## License
 
 MIT
+# OrdinalSwap
